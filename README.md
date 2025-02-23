@@ -41,7 +41,7 @@ Projex is a modern **project management tool** designed to help teams **organize
 
 ### 🔧 Prerequisites
 
-Make sure you have **npm** installed.
+Make sure you have **npm** , **react** installed.
 
 
 
